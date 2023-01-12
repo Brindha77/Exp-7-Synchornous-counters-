@@ -95,23 +95,23 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 UP COUNTER:
-![](./UP.png)
+![output](./UP.png)
  
  DOWN COUNTER:
- ![](./DOWN.png)
+ ![output](./DOWN.png)
 
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER:
-![](./UP%20TD.png)
+![output](./UP%20TD.png)
 
 DOWN COUNTER:
-![](./DOWN%20TD.png)
+![output](./DOWN%20TD.png)
 ### TRUTH TABLE 
 UP COUNTER:
-![](./up%20counter.png)
+![output](./up%20counter.png)
 
 DOWN COUNTER:
-![](./down%20counter.png)
+![output](./down%20counter.png)
 
 
 
