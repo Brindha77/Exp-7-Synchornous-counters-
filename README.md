@@ -119,3 +119,4 @@ DOWN COUNTER:
 
 
 ### RESULTS 
+4 bit up and down counters are implemented and its functionality is validated successfully.
